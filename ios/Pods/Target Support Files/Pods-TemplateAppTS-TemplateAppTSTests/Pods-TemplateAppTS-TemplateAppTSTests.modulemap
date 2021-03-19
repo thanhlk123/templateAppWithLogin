@@ -1,0 +1,6 @@
+module Pods_TemplateAppTS_TemplateAppTSTests {
+  umbrella header "Pods-TemplateAppTS-TemplateAppTSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

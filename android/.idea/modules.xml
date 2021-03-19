@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemplateAppTS.iml" filepath="$PROJECT_DIR$/.idea/modules/TemplateAppTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TemplateAppTS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TemplateAppTS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-699611356/TemplateAppTS.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-699611356/TemplateAppTS.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1684506033/TemplateAppTS.react-native-config.iml" filepath="$PROJECT_DIR$/.idea/modules/1684506033/TemplateAppTS.react-native-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-717214602/TemplateAppTS.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-717214602/TemplateAppTS.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/262855577/TemplateAppTS.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/262855577/TemplateAppTS.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1864213513/TemplateAppTS.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1864213513/TemplateAppTS.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/143544992/TemplateAppTS.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/143544992/TemplateAppTS.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1345576957/TemplateAppTS.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1345576957/TemplateAppTS.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-405221611/TemplateAppTS.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-405221611/TemplateAppTS.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1785466348/TemplateAppTS.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/1785466348/TemplateAppTS.react-native-video.iml" />
+    </modules>
+  </component>
+</project>
